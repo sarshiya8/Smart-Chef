@@ -11,18 +11,24 @@ A C-based kitchen assistant application built using the Windows API.
 
 ## 🛠️ Tech Stack
 
-- C
-- Windows API
+- **Language:** C
+- **GUI:** Windows API
 
 ## 💻 Platform
 
-Designed for Windows.
+Designed for Windows. The application uses Windows-specific APIs and is not natively compatible with macOS.
 
 ## 🚀 Getting Started
 
 1. Clone or download this repository.
 2. Open `main.c` in a C development environment that supports the Windows API.
-3. Compile the program using a compatible Windows C compiler and the required Windows libraries.
+3. Compile and run the application on a compatible Windows environment with the required libraries.
+
+## 📝 Project Note
+
+This project was originally developed and tested on a Windows laptop. The original runtime environment and screenshots are no longer available, so the application has not been recently re-tested.
+
+The source code is provided for reference. Running the application requires a compatible Windows environment due to its use of the Windows API.
 
 ## 📁 Project Structure
 
